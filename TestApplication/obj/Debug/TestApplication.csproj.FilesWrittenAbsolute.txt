@@ -1,0 +1,5 @@
+/Users/developer/Documents/TestApplication/TestApplication/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/developer/Documents/TestApplication/TestApplication/bin/Debug/TestApplication.dll.mdb
+/Users/developer/Documents/TestApplication/TestApplication/bin/Debug/TestApplication.dll
+/Users/developer/Documents/TestApplication/TestApplication/obj/Debug/TestApplication.dll
+/Users/developer/Documents/TestApplication/TestApplication/obj/Debug/TestApplication.dll.mdb

@@ -1,0 +1,4 @@
+New.Droid.MainActivity, TestApplication.Droid;md585cf87fb9babf31e45f91749049c012b.MainActivity
+New.Droid.MainActivity, TestApplication.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md585cf87fb9babf31e45f91749049c012b.MainActivity
+New.Droid.MainActivity;md585cf87fb9babf31e45f91749049c012b.MainActivity
+new.droid.MainActivity;md585cf87fb9babf31e45f91749049c012b.MainActivity
